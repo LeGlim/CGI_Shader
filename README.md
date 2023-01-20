@@ -1,2 +1,5 @@
 # CGI_Shader
-This is the repository for the computergraphics module by dr. johannes riesterer in 5th semester 
+This is the repository for the computergraphics module by dr. johannes riesterer in 5th semester.
+
+## Task [GER]
+Schreiben Sie einen GLSL Shader in WebGL und dokumentieren Sie seine Funktionsweise. Bewertet wird Kreativität, Verständlichkeit der Dokumentation und die Implementierung. Aus der Dokumentation sollte hervorgehen, auf welchen theoretischen Prinzipien das bildgebende Verfahren basiert, wie es algorithmisch umgesetzt werden kann und wie es implementiert wurde.  Als Orientierung für eine sehr gute Dokumentation dient https://thebookofshaders.com/. Ein Shader wird  als nicht sonderlich kreativ bewertet, wenn er nur  eine geringe Variabilität zu Standard Beispielen aus gängiger Literatur oder Seiten wie https://thebookofshaders.com/ oder https://www.shadertoy.com/ aufweist. (100 Punkte)
